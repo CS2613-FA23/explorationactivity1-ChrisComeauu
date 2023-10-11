@@ -9,6 +9,31 @@ Here is a short ex of the steps descrived above:
 
 [1]
 
+
+3. Pygame is a library that allows us to create things like 2D games in python[1]. There are many functionalities including:
+   
+Drawing shapes:
+
+<img width="393" alt="Screenshot 2023-10-11 at 7 14 47 PM" src="https://github.com/CS2613-FA23/explorationactivity1-ChrisComeauu/assets/144265204/385efeaa-a632-40cc-97be-96e087f91370"> [2]
+
+Creating game boards:
+
+<img width="328" alt="Screenshot 2023-10-11 at 7 15 45 PM" src="https://github.com/CS2613-FA23/explorationactivity1-ChrisComeauu/assets/144265204/0297efa9-f553-40cc-90c1-8bc4ad85b28c"> [2]
+
+Displaying images:
+
+<img width="673" alt="Screenshot 2023-10-11 at 7 24 19 PM" src="https://github.com/CS2613-FA23/explorationactivity1-ChrisComeauu/assets/144265204/6012218d-56fe-42c5-a300-15cd6e8e4ab8"> [2]
+
+Playing sound/music:
+
+<img width="268" alt="Screenshot 2023-10-11 at 7 40 05 PM" src="https://github.com/CS2613-FA23/explorationactivity1-ChrisComeauu/assets/144265204/37632e9d-2937-4d5b-9d4c-7f21dc1245b2"> [2]
+
+
+
+
+   
+
+
 REFERENCEES:                            
 [1] https://pypi.org/project/pygame/#:~:text=Pygame%20is%20a%20free%20and,programs%20a%20more%20intuitive%20task.
 
