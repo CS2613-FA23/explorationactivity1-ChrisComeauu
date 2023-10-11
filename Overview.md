@@ -9,6 +9,11 @@ Here is a short ex of the steps descrived above:
 
 [1]
 
+REFERENCEES:                            
+[1] https://pypi.org/project/pygame/#:~:text=Pygame%20is%20a%20free%20and,programs%20a%20more%20intuitive%20task.
+
+[2] https://www.geeksforgeeks.org/pygame-tutorial/
+
 
 3. Pygame is a library that allows us to create things like 2D games in python[1]. There are many functionalities including:
    
@@ -28,13 +33,19 @@ Playing sound/music:
 
 <img width="268" alt="Screenshot 2023-10-11 at 7 40 05 PM" src="https://github.com/CS2613-FA23/explorationactivity1-ChrisComeauu/assets/144265204/37632e9d-2937-4d5b-9d4c-7f21dc1245b2"> [2]
 
+and many more!
 
-
-
-   
-
+4. The pygame library was created October 28th 2000 [3].
 
 REFERENCEES:                            
 [1] https://pypi.org/project/pygame/#:~:text=Pygame%20is%20a%20free%20and,programs%20a%20more%20intuitive%20task.
 
 [2] https://www.geeksforgeeks.org/pygame-tutorial/
+
+[3] https://www.pygame.org/docs/tut/PygameIntro.html#:~:text=Pygame%20was%20started%20in%20October,pygame%20version%201.0%20was%20released.
+
+5. The reason I picked the pygame library is because ever since a kid I have veen extremely interested in video games and how they are created. Being in second year CS I now have some coding experience under my belt so I thought it would be very fun/interesting to try and create a simple game.
+
+6. learning pygame not only helped me gain more knowledge but I also became more comfortable using python. Pygame was challenging to learn because of all the new functions I had to familiarize myself with on top of the fact that python is still a new language for me. However, overall I did learn quite a lot and enjoyed it as well!
+   
+7. Overall, I really enjoyed learning pygame even though I found it quite challenging at times. I would reccomend pygame to anyone who has an intrest in the creation of video games and what the necessary steps are to create your very own game. Yes, I can definitely see myself further exploring pygame in the future to see what else I can create!
